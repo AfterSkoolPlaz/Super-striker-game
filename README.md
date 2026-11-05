@@ -1,2 +1,2 @@
-# Super-striker-game
+#  afterskoolplaz Super-striker-game
 A shooting game
